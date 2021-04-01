@@ -1,0 +1,26 @@
+languages:
+  - item: Java
+  - item: Kotlin
+  - item: JavaScript
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+
+androids:
+  - item: MVC, MVP, MVVM
+  - item: Module, AAR, JAR, SDK, Clean Code Architecture
+  - item: Android jetpack (Room, ViewModel, Lifecycle, LiveData, Navigation Component and others)
+  - item: Firebase (Storage, Machine Learning/Vision APIs, Analytics, Authentication, Push Notification)
+  - item: RxJava, RxAndroid, Dagger2, Retrofit, Glide, Picasso, Gson
+  - item: MFE-MicroFrontend for Scalable Development
+  - item: Adobe Analytics, Crashlytics, Deep Linking
+
+frameworks:
+  - item: Android
+  - item: React
+  - item: Node
+
+tools:
+  - item: Git & Github & Gitlab & Bitbucket
+  - item: Android Studio
