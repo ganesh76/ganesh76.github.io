@@ -1,7 +1,6 @@
 <section class="section skills">
   <div class="section__title">Skills</div>
   <div class="section__content">
-    <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
     <div class="skillz">
       <div class="skillz__category">
         <div class="skillz__category__label">Languages</div>
@@ -12,18 +11,10 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Android Skills</div>
+        <div class="skillz__category__label">Core Skills</div>
         <ul>
-          {% for android in site.data.skills.androids %}
-          <li class="skillz__category__item">{{android.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="skillz__category">
-        <div class="skillz__category__label">Frameworks</div>
-        <ul>
-          {% for framework in site.data.skills.frameworks %}
-          <li class="skillz__category__item">{{framework.item}}</li>
+          {% for core in site.data.skills.core %}
+          <li class="skillz__category__item">{{core.item}}</li>
           {% endfor %}
         </ul>
       </div>
