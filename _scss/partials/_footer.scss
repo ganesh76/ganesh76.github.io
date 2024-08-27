@@ -83,7 +83,7 @@
       }
     }
     img {
-      display: none;
+      vertical-align: sub;
       width: 22px;
       @include little-desktop {
         display: inline-block;
