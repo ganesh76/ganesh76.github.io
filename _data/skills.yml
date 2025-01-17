@@ -5,8 +5,9 @@ languages:
   - item: Flutter
   - item: Dart
   - item: JavaScript / TypeScript
-  - item: React JS / Vue JS
-  - item: Ruby
+  - item: React
+  - item: Next JS
+  - item: Python
 
 core:
   - item: Data Structures
