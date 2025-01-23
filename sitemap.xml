@@ -6,8 +6,17 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>https://github.com/ganesh76/</loc>
-  <lastmod>2021-04-01T12:21:04 +05:30</lastmod>
+  <loc>https://ganesh-g.is-a.dev/</loc>
+  <lastmod>2025-01-23T21:43:33+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
+<url>
+  <loc>https://ganesh-g.is-a.dev/portfolio/</loc>
+  <lastmod>2025-01-20T11:58:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
